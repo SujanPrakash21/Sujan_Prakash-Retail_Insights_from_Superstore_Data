@@ -1,4 +1,4 @@
-# Retail Insights on Super Store Data1
+# Retail Insights on Super Store Data
 
 This project aims to provide insights into the retail operations of a super store using data analysis and visualization techniques. The analysis helps in understanding various aspects such as sales performance, profit margins, and customer behavior.
 
